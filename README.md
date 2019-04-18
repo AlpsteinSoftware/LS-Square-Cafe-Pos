@@ -16,7 +16,7 @@ Powered By
  
 ### Tech
 
-LS Square Cage Pos uses a number of open source projects to work properly:
+LS Square Cafe Pos uses a number of open source projects to work properly:
 
 * [React JS] - HTML enhanced for web apps!
 * [WebStorm IDE] - awesome web-based text editor ide
